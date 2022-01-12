@@ -1,0 +1,35 @@
+<!doctype html>
+<html dir="ltr" lang:"en-us">
+  <head>
+    <title>Motorcycle</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-
+width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  
+  <body style = "background: url(KKBackground.jpg);
+                 background-size: 100%;
+				 background-repeat:no-repeat">
+				
+  <main>
+  
+    <form action="C:\Users\ossir\Desktop\HTML\Projects\Motorcycles\welcome.html">
+         Full Name:<br> <input type="text" name="name" id="name" required 
+		 placeholder="Full Name">
+         <br>
+         Email:<br> <input type="text" name="email" id="email" required
+		 placeholder="Email @">
+         <br>
+		 Password:<br> <input name="password" id="password" 
+	         for="password" type="text" required 
+			 placeholder="Password">
+         <input type="submit" value="Submit">
+      </form>
+  
+  </main>
+  <div class=container1>
+  <h1> Choose your Custom Bike </h1>
+  <p>Register in order to Continue<p></div>
+  </body>
+</html>

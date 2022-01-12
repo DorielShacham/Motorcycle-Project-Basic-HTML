@@ -1,0 +1,59 @@
+Motorcycles {
+list-style-type: none;
+margin-left:0px;
+padding-left:0px;
+display: inline-block;
+}
+
+Motorcycles img
+{
+float:left;
+}
+
+Motorcycles p,.Motorcycles h3 {
+text-align: right; 
+display:inline-block;
+padding: 0;
+}
+
+h3 {
+  border: 2px solid powderBlack;
+  margin: 10px;
+}
+
+
+div.container1 {
+	height:10 em
+position: relative }
+div.container1 p {
+	margin: 0;
+	background:orange;
+	position:absolute;
+	top:35%;
+	left:50%;
+	margin-right: -50%;
+transform: translate(-50%, -50%) }
+
+div.container1 {
+	height:10 em
+position: relative }
+div.container1 h1 {
+	margin: 0;
+	background:orange;
+	position:absolute;
+	top:30%;
+	left:50%;
+	margin-right: -50%;
+transform: translate(-50%, -50%) }
+
+div.container2 {
+	height:10 em
+position: relative }
+div.container2 form {
+	margin: 0;
+	
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-right: -50%;
+transform: translate(-50%, -50%) }
