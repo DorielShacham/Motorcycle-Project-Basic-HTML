@@ -57,3 +57,20 @@ div.container2 form {
 	left:50%;
 	margin-right: -50%;
 transform: translate(-50%, -50%) }
+
+div.Motorcycles {
+	height:10 em
+position: relative }
+div.Motorcycles h2 {
+	margin: 0;
+	background:orange;
+	position:absolute;
+	top:5%;
+	left:10%;
+	margin-right: -50%;
+transform: translate(-50%, -50%) }
+
+
+div.Welcome h1 {
+	background:orange;
+    display:inline-block;
